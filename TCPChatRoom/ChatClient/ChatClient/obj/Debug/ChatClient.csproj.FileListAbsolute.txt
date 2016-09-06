@@ -1,0 +1,6 @@
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache

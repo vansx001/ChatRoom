@@ -1,0 +1,6 @@
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\TCPChatRoom\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
